@@ -1,0 +1,2 @@
+The ADJECTIVE TYPE_OF_ANIMAL walked to the NOUN and then PAST_TENSE_VERB. A
+nearby NOUN was unaffected by these events.
